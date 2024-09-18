@@ -1,0 +1,4 @@
+.vscode
+.swp*
+libs/imgui.ini
+build
